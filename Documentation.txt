@@ -1,0 +1,10 @@
+How to install JSON server
+
+Install JSON Server
+
+npm install -g json-server
+
+How to start JSON server
+
+-> Go to the directory where JSONDB.json file saved
+-> Run this command json-server --watch JSONDB.json

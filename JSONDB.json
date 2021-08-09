@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Java",
+      "author": "Dhruvin"
+    },
+    {
+      "id": 2,
+      "title": "Java-Script",
+      "author": "Nikunj"
+    },
+    {
+      "author": "Hetal",
+      "id": "3",
+      "title": "life of pie"
+    },
+    {
+      "id": 4,
+      "title": "Selenium",
+      "author": "Divyang"
+    },
+    {
+      "author": "Hiren",
+      "id": 5,
+      "title": "Jmeter Edition 3.3"
+    },
+    {
+      "author": "Vishal",
+      "id": 6,
+      "title": "Jenkins New Editions"
+    }
+  ],
+  "comments": [
+    {
+      "id": 4,
+      "title": "Selenium",
+      "author": "Divyang"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
